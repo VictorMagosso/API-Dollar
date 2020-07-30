@@ -12,6 +12,7 @@ body{
     justify-content: space-between;
 }
 .flex-item{
+    justify-content: center;
     padding: 70px;
 }
 .flex-moedas-container{
@@ -27,6 +28,11 @@ body{
     border: 1.5px solid #c4c4c4;
     border-radius: 7px;
     width: 400px;
+}
+.custom{
+    border: none;
+    border-radius: 7px;
+    width: 68px;
 }
 
 
