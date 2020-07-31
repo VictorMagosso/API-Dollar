@@ -16,8 +16,8 @@
 <div class="flex">
     <div class="flex-item">
         <h1>Conversão de dólar para real<i class="ml-2 fas fa-search-dollar display-4"></i></h1>
-            <p>US$ <input onchange="conDolarReal(document.querySelector('#valorDolar').value)" class="custom" type="number" id="valorDolar" placeholder="-"/></p>
-            <p class="ml-2">R$ <input onchange="conRealDolar(document.querySelector('#valorReal').value)" class="custom" type="number" id="valorReal" placeholder="-"/></p>
+            <p>US$ <input onchange="conDolarReal(document.querySelector('#valorDolar').value)" class="custom" type="number" min="0" id="valorDolar" placeholder="-"/></p>
+            <p class="ml-2">R$ <input onchange="conRealDolar(document.querySelector('#valorReal').value)" class="custom" min="0" type="number" id="valorReal" placeholder="-"/></p>
     </div>
 </div>
         <h4 style="text-align: center;">Cotações</h4>
