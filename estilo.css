@@ -32,7 +32,7 @@ body{
 .custom{
     border: none;
     border-radius: 7px;
-    width: 85px;
+    width: auto;
 }
 
 
