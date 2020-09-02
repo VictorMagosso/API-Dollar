@@ -1,4 +1,4 @@
-# API-Dollar
+# API-Dollar - projeto para ser implementado posteriormente... :hammer:
 :computer: Web API - Dollar para Real
 
 ### :moneybag: Conversor de moedas para o real (BRL)
